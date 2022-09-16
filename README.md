@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Matheus Andrade, seja muito bem-vindo ao meu GitHub. ✌️
 
-[![Linkedin]target="blank"(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-aandrade/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-aandrade/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.andrade.a/)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-AA&show_icons=true&theme=dark)
