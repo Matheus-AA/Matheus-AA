@@ -1,16 +1,20 @@
-## Olá! Eu me chamo Matheus Andrade, seja muito bem-vindo ao meu GitHub. ✌️
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-aandrade/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.andrade.a/)
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-AA&show_icons=true&theme=dark)
+## Olá! Eu me chamo Matheus Andrade e esse é meu GitHub
+<div align="center">
+  <a href="https://github.com/Matheus-AA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-AA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-AA&layout=compact&langs_count=7&theme=react"/>
+</div>
 <div style="display: inline_block"><br>
-    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div><br>
-
-<h3>Um amante da tecnologia, que está em transição de carreira de Engenheiro Civil para desenvolvedor Front-end.</h3>
-
-
-
+  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
+  ##
+ 
+<div> 
+    <a href="https://www.linkedin.com/in/matheus-aandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:matheus2000_alves@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/matheus.andrade.a/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="discordapp.com/users/311558469771722753" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
